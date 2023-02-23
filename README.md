@@ -1,5 +1,5 @@
 # Blockchain FlightSurety
-![](images/screenshootapp.jpeg)
+![](images/screenshootapp.PNG)
 FlightSurety-MDP is a flight insurance application that currently accepts manually entered addresses and flights. Sample data is provided below to simplify the entry process. The smart contracts provide a framework for expanding the DApp into a more usable application, as it is currently a minimum viable product. The application is easily expandable to create a more robust user experience.
 
 Additional instructions are included to help Windows users get up and running due to the challenges of developing this application on the Windows platform. If you are not using Windows, you can use the standard commands and package.json files that were originally provided for the project.
